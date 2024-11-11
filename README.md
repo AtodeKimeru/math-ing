@@ -40,7 +40,8 @@ Contamos con el apoyo de:
 
 ### Cómo Ejecutar el Proyecto
 
-
+El modelo de grafos se ejecuta y visualiza desde jupyterLab en el archivo data_connection.ipynb
+El mapa con todos los datos cargados de la ciudad de Medellín se ejecutó desde ArcGis map
 
 ### Resultados y Visualizaciones
 
@@ -72,6 +73,8 @@ Planetario Municipal de Medellín Jesús Emilio Ramírez González: 4
 Nodo con el grado más alto: Centro de Desarrollo Cultural de Moravia (Grado: 8)
 
 Densidad del grafo: 0.3889
+
+<img src="nodos.png" alt="Gráfico de conectividad" width="500"/>
 
 ### Próximos Pasos
 
