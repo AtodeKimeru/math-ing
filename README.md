@@ -37,6 +37,9 @@ Contamos con el apoyo de:
 - Python (NetworkX, Matplotlib, Pandas)
 - ArcGIS para visualización geoespacial
 - Jupyter Notebooks para análisis de datos
+- AWS sagemaker para crear la instancia de jupyterLab y conectar con los dataframes en el bucket
+- AWS S3 para almacenar los dataframes en un bucket en S3
+- AWS IAM para orquestar y gestionar permisos entre servicios
 
 ### Cómo Ejecutar el Proyecto
 
@@ -75,6 +78,8 @@ Nodo con el grado más alto: Centro de Desarrollo Cultural de Moravia (Grado: 8)
 Densidad del grafo: 0.3889
 
 ![Conexión grafos](images/nodos.png)
+
+![Mapa de ciclovías](images/map_arcgis.png)
 
 ### Próximos Pasos
 
