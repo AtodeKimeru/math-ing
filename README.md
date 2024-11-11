@@ -74,7 +74,7 @@ Nodo con el grado más alto: Centro de Desarrollo Cultural de Moravia (Grado: 8)
 
 Densidad del grafo: 0.3889
 
-<img src="nodos.png" alt="Gráfico de conectividad" width="500"/>
+![Conexión grafos](images/nodos.png)
 
 ### Próximos Pasos
 
