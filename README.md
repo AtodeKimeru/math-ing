@@ -49,6 +49,7 @@ El mapa con todos los datos cargados de la ciudad de Medellín se ejecutó desde
 ### Resultados y Visualizaciones
 
 Matriz de Adyacencia:
+```
 [[0 1 0 0 0 0 0 0 0]
  [1 0 1 1 1 1 1 1 1]
  [0 1 0 0 0 0 1 0 0]
@@ -76,7 +77,7 @@ Planetario Municipal de Medellín Jesús Emilio Ramírez González: 4
 Nodo con el grado más alto: Centro de Desarrollo Cultural de Moravia (Grado: 8)
 
 Densidad del grafo: 0.3889
-
+```
 ![Conexión grafos](images/nodos.png)
 
 ![Mapa de ciclovías](images/map_arcgis.png)
@@ -91,4 +92,14 @@ Densidad del grafo: 0.3889
 
 ### Agradecimientos
 
-Agradecemos los organizadores de la UN Datathon 2024 por la oportunidad de desarrollar este proyecto.
+Queremos expresar nuestro agradecimiento a todas los organizadores de UN Datathon 2024:
+
+- Naciones Unidas (UN) por la organización y patrocinio del evento.
+- Departamento Administrativo Nacional de Estadística (DANE) por proporcionar datos valiosos y apoyo.
+- Ruta N por su apoyo en innovación y tecnología.
+- Amazon Web Services (AWS) por proporcionar la infraestructura en la nube y herramientas necesarias.
+- Esri por el acceso a las herramientas de ArcGIS para nuestras visualizaciones geoespaciales.
+- Y a los demás organizadores y colaboradores.
+
+Agradecemos también a todos los mentores, jueces y participantes que contribuyeron con su tiempo y experiencia para hacer de esta Datathon un evento enriquecedor y productivo.
+
